@@ -1,2 +1,3 @@
-# developer-blog-playground-demos
-Playground demo for posts on the WordPress Developer Blog.
+# Developer Blog Playground Demos
+
+Playground demos for posts on the WordPress Developer Blog.
